@@ -1,0 +1,7 @@
+README.txt
+setup.py
+CopyRightChecker.egg-info/PKG-INFO
+CopyRightChecker.egg-info/SOURCES.txt
+CopyRightChecker.egg-info/dependency_links.txt
+CopyRightChecker.egg-info/top_level.txt
+CopyRightChecker.egg-info/zip-safe
