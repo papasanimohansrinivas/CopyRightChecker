@@ -1,0 +1,7 @@
+README.txt
+setup.py
+CopyRightChecker\appendcopyright.py
+CopyRightChecker\copyright_filetype.py
+CopyRightChecker\file_type_checker.py
+CopyRightChecker\newRepoDownload.py
+CopyRightChecker\walkthefolder.py
